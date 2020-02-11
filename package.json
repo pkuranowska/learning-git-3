@@ -19,5 +19,9 @@
   "homepage": "https://github.com/pkuranowska/learning-git-3#readme",
   "devDependencies": {
     "browser-sync": "^2.26.7"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "html-validate": "^2.15.0"
   }
 }
